@@ -2,4 +2,5 @@ user name is admin
 pw is admin123
 
 I use MySQL for database connection
-i uploaded exported MySQL file in this folder 
+i uploaded exported MySQL file in this folder and also the jar files for jasper report
+

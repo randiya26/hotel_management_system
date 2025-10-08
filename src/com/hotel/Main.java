@@ -24,7 +24,7 @@ public class Main {
 
         // Launch GUI
         SwingUtilities.invokeLater(() -> {
-            MainFrame view = new MainFrame(controller);
+            LoginFrame view = new LoginFrame(controller);
             view.setVisible(true);
         });
 
