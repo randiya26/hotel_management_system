@@ -1,0 +1,5 @@
+user name is admin
+pw is admin123
+
+I use MySQL for database connection
+i uploaded exported MySQL file in this folder 
